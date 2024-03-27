@@ -678,5 +678,13 @@ c {
     #contact .row {
         padding: 2rem 1rem;
     }
+
+     #footer-end p {
+        font-size: 12px;
+    }
+
+    #footer-end a {
+        font-size: 13px;
+    }
 }
 
